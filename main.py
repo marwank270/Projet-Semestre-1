@@ -12,4 +12,8 @@ import numpy as np
 # Functions
 def create_matrix(height, width): # Matrix Creation function
     return np.zeros((height, width), dtype = np.int32)
+
+def bite(): # bit
+    
+    return 0
     
